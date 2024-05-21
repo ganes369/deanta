@@ -1,0 +1,11 @@
+node/node_modules
+node/.env
+
+php/vendor
+php/.env
+
+php/docker-compose.yml
+php/Dockerfile
+
+node/docker-compose.yml
+node/Dockerfile
