@@ -9,7 +9,5 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local
 # Copia o código da aplicação para o diretório do servidor Apache
 COPY php/ .
 
-RUN composer install
 # Permite reescrever URLs (se necessário)
 RUN a2enmod rewrite
-
