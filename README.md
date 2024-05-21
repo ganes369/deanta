@@ -72,6 +72,10 @@ Let's build something great together! 🚀
 test the api using a collection that is at the root of this project `Insomnia`
 
 documentation for each resource can be found in the insonmia collection
+
+use phpmyAdminer to view the base data (project_deanta =node/deanta=php)
+available at http://localhost:8081/
+
 ![Alt text](image.png)
 ![Alt text](<Diagrama sem nome.drawio.png>)
 
