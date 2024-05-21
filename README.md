@@ -79,19 +79,8 @@ available at http://localhost:8081/
 ![Alt text](image.png)
 ![Alt text](<Diagrama sem nome.drawio.png>)
 
-Clear documentation for each endpoint is crucial for understanding and utilizing the API effectively. The documentation should include:
-
-- **Endpoint URL:** The URL at which the endpoint is accessible.
-- **Request Method:** The HTTP method used to interact with the endpoint (e.g., POST, PUT).
-- **Request Parameters:** Any parameters required by the endpoint (if applicable).
-- **Response Format:** The format of the response returned by the endpoint (e.g., JSON).
-- **Authentication Requirements:** Details regarding authentication required to access the endpoint.
-- **Sample Request Payload:** Example payload for making requests to the endpoint (if applicable).
-- **Sample Response Payload:** Example response payload returned by the endpoint (if applicable).
-- **Additional Notes:** Any additional information or considerations relevant to the endpoint.
-
 ## Conclusion
 
-We believe that with the implementation of these features and comprehensive documentation, our API will provide a solid foundation for managing user authentication and project tracking. If you have any questions or need further clarification, please don't hesitate to reach out.
+I believe that with the implementation of these features and comprehensive documentation, our API will provide a solid foundation for managing user authentication and project tracking. If you have any questions or need further clarification, please don't hesitate to reach out.
 
 Let's build something great together! 🚀
