@@ -59,7 +59,7 @@ To run the project using Docker, follow these steps:
 3. Ensure you have `composer` installed on your system.
 4. Run `composer install`.
 
-5. Run `docker compose up`
+5. In the root folder run `docker compose up`
 
 ## Documentation
 
