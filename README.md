@@ -61,6 +61,10 @@ To run the project using Docker, follow these steps:
 
 5. In the root folder run `docker compose up`
 
+#### node available at http://localhost:3000/
+
+#### php available at http://localhost:8080/
+
 ## Conclusion
 
 We believe that with the implementation of these features and comprehensive documentation, our API will provide a solid foundation for managing user authentication and project tracking. If you have any questions or need further clarification, please don't hesitate to reach out.
