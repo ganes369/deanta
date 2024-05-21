@@ -61,8 +61,6 @@ To run the project using Docker, follow these steps:
 
 5. In the root folder run `docker compose up`
 
-## Documentation
-
 ## Conclusion
 
 We believe that with the implementation of these features and comprehensive documentation, our API will provide a solid foundation for managing user authentication and project tracking. If you have any questions or need further clarification, please don't hesitate to reach out.
@@ -73,6 +71,8 @@ Let's build something great together! 🚀
 
 test the api using a collection that is at the root of this project `Insomnia`
 
+documentation for each resource can be found in the insonmia collection
+![Alt text](image.png)
 ![Alt text](<Diagrama sem nome.drawio.png>)
 
 Clear documentation for each endpoint is crucial for understanding and utilizing the API effectively. The documentation should include:
